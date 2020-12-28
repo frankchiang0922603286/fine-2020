@@ -18,10 +18,11 @@
             body {
                 font-family: '微軟正黑體','Nunito';
             }
-        </style>
-        <h1>我的網站<h1>
+        </style>        
     </head>
     <body class="antialiased">
+    <h3>蔣復民的期末網站<h3></hr>
+    
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center sm:pt-0">
             @if (Route::has('login'))
                 <div class="hidden fixed top-0 right-0 px-6 py-4 sm:block">
